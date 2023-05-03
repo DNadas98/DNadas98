@@ -8,7 +8,7 @@
     />CodeCool](https://codecool.com/en/) coding bootcamp**
   - My webpage: [dnadas.com](http://dnadas.com)
     - Currently uploaded project: [AskNASA](https://github.com/DNadas98/askNasa) coding bootcamp project
-  - Contacts: **daniel.nadas.123@gmail.com**
+  - Contacts: **[daniel.nadas.123@gmail.com](mailto:daniel.nadas.123@gmail.com)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
