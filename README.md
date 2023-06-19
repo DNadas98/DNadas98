@@ -1,5 +1,5 @@
 # Hi, I'm Daniel Nadas
-  - I’m currently working on [My minimal Node.JS server](https://github.com/DNadas98/node_server)
+  - I’m currently working on [My full-stack MERN project with user authentication, authorization](https://github.com/DNadas98/project-notes)
   - I’m currently studying **full-stack software developement at  [<img
       src="https://avatars.githubusercontent.com/u/43291578?s=200&v=4"
       alt="codecool"
