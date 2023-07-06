@@ -1,7 +1,8 @@
 # Hi, I'm Daniel Nadas
   - I’m currently working on:
-    - [My MERN template project](https://github.com/DNadas98/mern_template)
-    - [My full-stack MERN project with user authentication, authorization](https://github.com/DNadas98/project-notes)
+    - [my full-stack MERN project with user authentication, authorization](https://github.com/DNadas98/project-notes)
+    - [my Project Showroom App](https://github.com/DNadas98/project_showroom)
+    - [my MERN Template Project](https://github.com/DNadas98/mern_template)
   - I’m currently studying **full-stack software developement at  [<img
       src="https://avatars.githubusercontent.com/u/43291578?s=200&v=4"
       alt="codecool"
