@@ -1,8 +1,6 @@
 # Hi, I'm Daniel Nadas
   - I’m currently working on:
-    - [my full-stack MERN project with user authentication, authorization](https://github.com/DNadas98/project-notes)
-    - [my Project Showroom App](https://github.com/DNadas98/project_showroom)
-    - [my MERN Template Project](https://github.com/DNadas98/mern_template)
+    - [My Project Showroom full-stack MERN app](https://github.com/DNadas98/project_showroom)
   - I’m currently studying **full-stack software developement at  [<img
       src="https://avatars.githubusercontent.com/u/43291578?s=200&v=4"
       alt="codecool"
@@ -10,7 +8,6 @@
       height="20"
     />CodeCool](https://codecool.com/en/) coding bootcamp**
   - My webpage: [dnadas.com](http://dnadas.com)
-    - down at the moment, work in progress...
   - Contacts: **[daniel.nadas.123@gmail.com](mailto:daniel.nadas.123@gmail.com)**
 
 <h3 align="left">Tech Stack:</h3>
@@ -81,9 +78,6 @@
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
