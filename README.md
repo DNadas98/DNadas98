@@ -10,7 +10,7 @@
   - My webpage: [dnadas.com](http://dnadas.com)
   - Contacts:
     - E-mail: **[info@dnadas.com](mailto:info@dnadas.com)**
-    - LinkedIn: [Dániel Nádas](https://www.linkedin.com/in/d%C3%A1niel-n%C3%A1das-96a370244)
+    - LinkedIn: [Dániel Nádas](https://www.linkedin.com/in/daniel-nadas)
 
 <h3 align="left">Tech Stack:</h3>
 <p align="left">
