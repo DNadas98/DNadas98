@@ -9,7 +9,7 @@
     />CodeCool](https://codecool.com/en/) coding bootcamp**
   - My webpage: [dnadas.com](http://dnadas.com)
   - Contacts:
-    - E-mail: **[info@dnadas.com](mailto:info@dnadas.com)**
+    - E-mail: **[daniel.nadas.123@gmail.com](mailto:daniel.nadas.123@gmail.com)**
     - LinkedIn: [Dániel Nádas](https://www.linkedin.com/in/daniel-nadas)
 
 <h3 align="left">Tech Stack:</h3>
