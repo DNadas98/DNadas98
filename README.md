@@ -7,7 +7,7 @@
       width="20"
       height="20"
     />CodeCool](https://codecool.com/en/) coding bootcamp**
-  - My webpage: [dnadas.com](http://dnadas.com)
+  - My webpage: [dnadas.net](https://dnadas.net)
   - Contacts:
     - E-mail: **[daniel.nadas.123@gmail.com](mailto:daniel.nadas.123@gmail.com)**
     - LinkedIn: [Dániel Nádas](https://www.linkedin.com/in/daniel-nadas)
