@@ -51,6 +51,7 @@
     <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-mysql-96-1.webp" alt="MySQL" style="width:50px;height:50px; margin:5px">
     <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-spring-boot-96.webp" alt="Spring Data JPA" style="width:50px;height:50px; margin:5px">
     <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-mongodb-a-cross-platform-document-oriented-database-program-96.webp" alt="MongoDB" style="width:50px;height:50px; margin:5px">
+    <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-mongoose-96.png" alt="MongoDB" style="width:50px;height:50px; margin:5px">
   </p>
   <ul>
     <li>PostgreSQL</li>
@@ -88,9 +89,9 @@
 <!--   <img src="https://dnadas.net/wp-content/uploads/2024/01/servers.png" alt="Server Management" width="300" height="300"> -->
   <p align="left">
     <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-linux-96.webp" alt="Linux Server (VPS)" style="width:50px;height:50px; margin:5px">
-    <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-cloud-storage-100.png" alt="Web Storage, E-mail, FTP Administration" style="width:50px;height:50px; margin:5px; background-color:white; border-radius:3px">
-    <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-email-open-100.png" alt="Custom E-mail Server" style="width:50px;height:50px; margin:5px; background-color:white; border-radius:3px">
-    <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-wordpress-100.png" alt="WordPress CMS" style="width:50px;height:50px; margin:5px; background-color:white; border-radius:3px">
+    <img src="https://dnadas.net/wp-content/uploads/2024/01/icons8-storage-64.png" alt="Web Storage, E-mail, FTP Administration" style="width:50px;height:50px; margin:5px; background-color:#fff; border-radius:3px">
+    <img src="https://dnadas.net/wp-content/uploads/2024/01/icons8-email-100.png" alt="Custom E-mail Server" style="width:50px;height:50px; margin:5px; background-color:#fff; border-radius:3px">
+    <img src="https://dnadas.net/wp-content/uploads/2024/01/icons8-wordpress-100.png" alt="WordPress CMS" style="width:50px;height:50px; margin:5px;">
   </p>
   <ul>
     <li>Linux Server (VPS)</li>
