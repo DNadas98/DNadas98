@@ -89,7 +89,7 @@
 <!--   <img src="https://dnadas.net/wp-content/uploads/2024/01/servers.png" alt="Server Management" width="300" height="300"> -->
   <p align="left">
     <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-linux-96.webp" alt="Linux Server (VPS)" style="width:50px;height:50px; margin:5px">
-    <img src="https://dnadas.net/wp-content/uploads/2024/01/icons8-storage-64.png" alt="Web Storage, E-mail, FTP Administration" style="width:50px;height:50px; margin:5px; background-color:#fff; border-radius:3px">
+    <img src="https://dnadas.net/wp-content/uploads/2024/01/icons8-storage-1.png" alt="Web Storage, E-mail, FTP Administration" style="width:50px;height:50px; margin:5px; background-color:#fff; border-radius:3px">
     <img src="https://dnadas.net/wp-content/uploads/2024/01/icons8-email-100.png" alt="Custom E-mail Server" style="width:50px;height:50px; margin:5px; background-color:#fff; border-radius:3px">
     <img src="https://dnadas.net/wp-content/uploads/2024/01/icons8-wordpress-100.png" alt="WordPress CMS" style="width:50px;height:50px; margin:5px;">
   </p>
