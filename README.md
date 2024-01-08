@@ -1,16 +1,18 @@
 # Hi, my name is Daniel Nadas
 
 - I’m currently working on:
-  - [My Project Showroom full-stack MERN app](https://github.com/DNadas98/project_showroom)
-- I’m currently studying **full-stack software developement at [<img
+  - [My Project Showroom full-stack MERN portfolio](https://github.com/DNadas98/project_showroom)
+  - [My Java Spring Project Manager Application](https://github.com/DNadas98/spring-project-manager)
+  - [My Spring Integration E-mail and FTP API](https://github.com/DNadas98/spring-email-ftp-test)
+- I’m currently studying full-stack software developement at [<img
     src="https://avatars.githubusercontent.com/u/43291578?s=200&v=4"
     alt="codecool"
     width="20"
     height="20"
-  />CodeCool](https://codecool.com/en/) coding bootcamp**
+  />CodeCool](https://codecool.com/en/) coding bootcamp
 - My webpage: [dnadas.net](https://dnadas.net)
 - Contacts:
-  - E-mail: **[daniel.nadas.123@gmail.com](mailto:daniel.nadas.123@gmail.com)**
+  - E-mail: [daniel.nadas@dnadas.net](mailto:daniel.nadas@dnadas.net)
   - LinkedIn: [Dániel Nádas](https://www.linkedin.com/in/daniel-nadas)
 
 <div>
