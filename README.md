@@ -1,4 +1,4 @@
-# Hi, my name is Daniel Nadas
+# Hi, my name is Dániel Nádas
 
 - I’m currently working on:
   - [My Project Showroom full-stack MERN portfolio](https://github.com/DNadas98/project_showroom)
