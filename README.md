@@ -1,7 +1,7 @@
 # Hi, my name is Dániel Nádas
 
 - I’m currently working on:
-    - [My Project Showroom full-stack MERN portfolio](https://github.com/DNadas98/project_showroom)
+    - [My Fullstack Web Developer Portfolio](https://github.com/DNadas98/portfolio-backend-nestjs)
     - [My Java Spring Project Manager Application](https://github.com/DNadas98/spring-project-manager)
     - [My Spring Integration E-mail and FTP API](https://github.com/DNadas98/spring-email-ftp-test)
 - Current Studies: Full-stack software developement at [<img
