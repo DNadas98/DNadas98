@@ -21,17 +21,19 @@
 <summary>
     Frontend Development
     <p align="left">
+      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-javascript-96.webp" alt="Javascript" style="height:40px; margin-left:5px">
+      <img src="https://dnadas.net/wp-content/uploads/2024/02/icons8-typescript-96.png" alt="Typescript" style="height:40px; margin-left:5px">
+      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-react-js-100.webp" alt="React JS" style="height:40px; margin-left:5px">
       <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-html-96.webp" alt="HTML" style="height:40px; margin-left:5px">
       <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-css-96.webp" alt="CSS" style="height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-javascript-96.webp" alt="Javascript" style="height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-react-js-100.webp" alt="React JS" style="height:40px; margin-left:5px">
     </p>
 </summary>
 <ul>
+  <li>Javascript</li>
+  <li>Typescript</li>
+  <li>React JS</li>
   <li>HTML</li>
   <li>CSS</li>
-  <li>Javascript</li>
-  <li>React JS</li>
 </ul>
 </details>
 <details>
@@ -42,6 +44,7 @@
       <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-spring-boot-96.webp" alt="Java Spring" style="width:40px;height:40px; margin-left:5px">
       <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-node-js-96.webp" alt="Node.js" style="width:40px;height:40px; margin-left:5px">
       <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-express-js-80.webp" alt="Express JS" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/wp-content/uploads/2024/02/icons8-nestjs-96.png" alt="Nest JS" style="width:40px;height:40px; margin-left:5px">
     </p>
   </summary>
   <ul>
@@ -49,6 +52,7 @@
     <li>Java Spring</li>
     <li>Node.js</li>
     <li>Express JS</li>
+    <li>Nest JS</li>
   </ul>
 </details>  
 <details>
@@ -57,16 +61,18 @@
     <p align="left"> 
       <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-postgresql-96.webp" alt="PostgreSQL" style="width:40px;height:40px; margin-left:5px">
       <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-mysql-96-1.webp" alt="MySQL" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-spring-boot-96.webp" alt="Spring Data JPA" style="width:40px;height:40px; margin-left:5px">
       <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-mongodb-a-cross-platform-document-oriented-database-program-96.webp" alt="MongoDB" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-mongoose-96.png" alt="MongoDB" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-spring-boot-96.webp" alt="Spring Data JPA" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" alt="Prisma ORM" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-mongoose-96.png" alt="Mongoose JS" style="width:40px;height:40px; margin-left:5px">
     </p>
   </summary>     
   <ul>
     <li>PostgreSQL</li>
     <li>MySQL</li>
-    <li>Spring Data JPA</li>
     <li>MongoDB</li>
+    <li>Spring Data JPA</li>
+    <li>Prisma ORM</li>
     <li>Mongoose JS</li>
   </ul>
 </details>  
