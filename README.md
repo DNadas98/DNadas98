@@ -20,17 +20,19 @@
 <summary>
     Frontend Development
     <p align="left">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-javascript-96.webp" alt="Javascript" style="height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2024/02/icons8-typescript-96.png" alt="Typescript" style="height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-react-js-100.webp" alt="React JS" style="height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-html-96.webp" alt="HTML" style="height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-css-96.webp" alt="CSS" style="height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/javascript.svg" alt="Javascript" style="height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/typescript.svg" alt="Typescript" style="height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/react.svg" alt="React JS" style="height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/materialui.svg" alt="Material UI" style="height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/html.svg" alt="HTML" style="height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/css.svg" alt="CSS" style="height:40px; margin-left:5px">
     </p>
 </summary>
 <ul>
   <li>Javascript</li>
   <li>Typescript</li>
   <li>React JS</li>
+  <li>Material UI</li>
   <li>HTML</li>
   <li>CSS</li>
 </ul>
@@ -39,11 +41,12 @@
   <summary>
     Backend Development
     <p align="left"> 
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-java-96.webp" alt="Java" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-spring-boot-96.webp" alt="Java Spring" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-node-js-96.webp" alt="Node.js" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-express-js-80.webp" alt="Express JS" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2024/02/icons8-nestjs-96.png" alt="Nest JS" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/java.svg" alt="Java" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/spring.svg" alt="Java Spring" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/nodejs.svg" alt="Node.js" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/express.svg" alt="Express JS" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/nestjs.svg" alt="Nest JS" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/php.svg" alt="PHP" style="width:40px;height:40px; margin-left:5px">
     </p>
   </summary>
   <ul>
@@ -52,18 +55,19 @@
     <li>Node.js</li>
     <li>Express JS</li>
     <li>Nest JS</li>
+    <li>PHP</li>
   </ul>
 </details>  
 <details>
   <summary>
     Databases, ORM & ODM
     <p align="left"> 
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-postgresql-96.webp" alt="PostgreSQL" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-mysql-96-1.webp" alt="MySQL" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-mongodb-a-cross-platform-document-oriented-database-program-96.webp" alt="MongoDB" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-spring-boot-96.webp" alt="Spring Data JPA" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" alt="Prisma ORM" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-mongoose-96.png" alt="Mongoose JS" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/postgresql.svg" alt="PostgreSQL" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/mysql.svg" alt="MySQL" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/mongodb.png" alt="MongoDB" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/spring.svg" alt="Spring Data JPA" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/prisma.svg" alt="Prisma ORM" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/mongoose.svg" alt="Mongoose JS" style="width:40px;height:40px; margin-left:5px">
     </p>
   </summary>     
   <ul>
@@ -79,24 +83,26 @@
   <summary>
     Integration & Deployment
     <p align="left">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/GitHub-Actions.webp" alt="Github Actions" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-docker-96.webp" alt="Docker, Docker Compose" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-nginx-96.webp" alt="Nginx" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/githubactions.svg" alt="Github Actions" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/docker.svg" alt="Docker, Docker Compose" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/nginx.svg" alt="Nginx" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/apache.png" alt="Apache HTTP Server" style="width:40px;height:40px; margin-left:5px">
     </p>
   </summary> 
   <ul>
     <li>Github Actions</li>
     <li>Docker, Docker Compose</li>
     <li>Nginx</li>
+    <li>Apache HTTP Server</li>
   </ul>
 </details> 
 <details>
   <summary>
     Security & Authentication
     <p align="left">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-spring-boot-96.webp" alt="Spring Security" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-jwt-96.png" alt="Json Web Token" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/Oauth_logo.svg_.webp" alt="OAuth 2.0" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/spring.svg" alt="Spring Security" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/jwt.svg" alt="Json Web Token" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/oauth2.svg" alt="OAuth 2.0" style="width:40px;height:40px; margin-left:5px">
     </p>
   </summary> 
   <ul>
@@ -110,10 +116,10 @@
   <summary>
     Server Management
     <p align="left">
-      <img src="https://dnadas.net/wp-content/uploads/2023/12/icons8-linux-96.webp" alt="Linux Server (VPS)" style="width:40px;height:40px; margin-left:5px">
-      <img src="https://dnadas.net/wp-content/uploads/2024/01/icons8-storage-1.png" alt="Web Storage, E-mail, FTP Administration" style="width:40px;height:40px; margin-left:5px; background-color:#fff; border-radius:3px">
-      <img src="https://dnadas.net/wp-content/uploads/2024/01/icons8-email-100.png" alt="Custom E-mail Server" style="width:40px;height:40px; margin-left:5px; background-color:#fff; border-radius:3px">
-      <img src="https://dnadas.net/wp-content/uploads/2024/01/icons8-wordpress-100.png" alt="WordPress CMS" style="width:40px;height:40px; margin-left:5px;">
+      <img src="https://dnadas.net/media/linux.png" alt="Linux Server (VPS)" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://cdn.iconscout.com/icon/free/png-512/free-mail-2844876-2365225.png?f=webp&w=256" alt="Custom E-mail Server" style="width:40px;height:40px; margin-left:5px; background-color:#ffffff; border-radius:3px">
+      <img src="https://cdn-icons-png.flaticon.com/256/10321/10321860.png" alt="Web Storage, E-mail, FTP Administration" style="width:40px;height:40px; margin-left:5px; background-color:#ffffff; border-radius:3px">
+      <img src="https://dnadas.net/media/wordpress.svg" alt="WordPress CMS" style="width:40px;height:40px; margin-left:5px;">
     </p>
   </summary>
   <ul>
