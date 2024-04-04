@@ -1,7 +1,7 @@
 # Hi, my name is Dániel Nádas
 
 - I’m currently working on:
-    - [My Java Spring Project Manager Application](https://github.com/DNadas98/spring-project-manager)
+    - [My Java Spring Training Portal Full-Stack Application](https://github.com/DNadas98/training-portal)
     - [My Fullstack Web Developer Portfolio](https://github.com/DNadas98/portfolio-backend-nestjs)
 - Current Studies: Full-stack software developement at [<img
         src="https://avatars.githubusercontent.com/u/43291578?s=200&v=4"
