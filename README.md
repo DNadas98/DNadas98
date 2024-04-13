@@ -2,7 +2,7 @@
 
 - I’m currently working on:
     - [My Java Spring Training Portal Full-Stack Application](https://github.com/DNadas98/training-portal)
-    - [My Fullstack Web Developer Portfolio](https://github.com/DNadas98/portfolio-backend-nestjs)
+    - [FreeRoam Hiking Companion Application](https://github.com/DNadas98/freeroam-hiking-companion)
 - Current Studies: Full-stack software developement at [<img
         src="https://avatars.githubusercontent.com/u/43291578?s=200&v=4"
         alt="codecool"
