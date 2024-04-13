@@ -23,7 +23,9 @@
       <img src="https://dnadas.net/media/javascript.svg" alt="Javascript" style="height:40px; margin-left:5px">
       <img src="https://dnadas.net/media/typescript.svg" alt="Typescript" style="height:40px; margin-left:5px">
       <img src="https://dnadas.net/media/react.svg" alt="React JS" style="height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/angular.svg" alt="Angular JS" style="height:40px; margin-left:5px">
       <img src="https://dnadas.net/media/materialui.svg" alt="Material UI" style="height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/tailwind.svg" alt="Tailwind CSS" style="height:40px; margin-left:5px">
       <img src="https://dnadas.net/media/html.svg" alt="HTML" style="height:40px; margin-left:5px">
       <img src="https://dnadas.net/media/css.svg" alt="CSS" style="height:40px; margin-left:5px">
     </p>
@@ -60,6 +62,19 @@
 </details>  
 <details>
   <summary>
+    Microservices
+    <p align="left"> 
+      <img src="https://dnadas.net/media/spring.svg" alt="Java Spring Gateway" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/spring_cloud.png" alt="Eureka Discovery Service" style="width:40px;height:40px; margin-left:5px">
+    </p>
+  </summary>
+  <ul>
+    <li>Java Spring Gateway</li>
+    <li>Eureka Discovery Service</li>
+  </ul>
+</details>  
+<details>
+  <summary>
     Databases, ORM & ODM
     <p align="left"> 
       <img src="https://dnadas.net/media/postgresql.svg" alt="PostgreSQL" style="width:40px;height:40px; margin-left:5px">
@@ -85,6 +100,7 @@
     <p align="left">
       <img src="https://dnadas.net/media/githubactions.svg" alt="Github Actions" style="width:40px;height:40px; margin-left:5px">
       <img src="https://dnadas.net/media/docker.svg" alt="Docker, Docker Compose" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/kubernetes.svg" alt="Kubernetes" style="width:40px;height:40px; margin-left:5px">
       <img src="https://dnadas.net/media/nginx.svg" alt="Nginx" style="width:40px;height:40px; margin-left:5px">
       <img src="https://dnadas.net/media/apache.png" alt="Apache HTTP Server" style="width:40px;height:40px; margin-left:5px">
     </p>
@@ -103,6 +119,7 @@
       <img src="https://dnadas.net/media/spring.svg" alt="Spring Security" style="width:40px;height:40px; margin-left:5px">
       <img src="https://dnadas.net/media/jwt.svg" alt="Json Web Token" style="width:40px;height:40px; margin-left:5px">
       <img src="https://dnadas.net/media/oauth2.svg" alt="OAuth 2.0" style="width:40px;height:40px; margin-left:5px">
+      <img src="https://dnadas.net/media/keycloak.png" alt="Keycloak Authorization Server" style="width:40px;height:40px; margin-left:5px">
     </p>
   </summary> 
   <ul>
@@ -110,6 +127,7 @@
     <li>Custom Express JS Implementation</li>
     <li>Json Web Token</li>
     <li>OAuth 2.0</li>
+    <li>Keycloak Authorization Server</li>
   </ul>
 </details>  
 <details>
